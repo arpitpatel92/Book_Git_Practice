@@ -1,0 +1,15 @@
+
+
+This is the first page of chapter 1
+
+this is our book
+
+whole name: page1.text
+
+created a new project
+created a new package called chapter _1
+created a new text fie called page1
+
+
+
+
