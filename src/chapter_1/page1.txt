@@ -11,5 +11,3 @@ created a new package called chapter _1
 created a new text fie called page1
 
 
-
-
